@@ -23,6 +23,7 @@ El propósito principal es analizar PDFs, extraer contenido y clasificarlo utili
 
 ## Requisitos
 
+- **Enviroment**: Crea un enviroment de python
 - **Python**: 3.8 o superior
 - **Dependencias**:
   - `fitz` (PyMuPDF)
@@ -48,7 +49,7 @@ El propósito principal es analizar PDFs, extraer contenido y clasificarlo utili
 1. **Clona el Repositorio**:
 
    ```bash
-   git clone https://github.com/tu_usuario/tu_repositorio.git
+   git clone https://github.com/Hector-hub/Proyecto-PDF.git
    cd tu_repositorio
    ```
 
@@ -103,7 +104,7 @@ El propósito principal es analizar PDFs, extraer contenido y clasificarlo utili
 
 ## Colaboración
 
-- **Reportar Problemas**: Usa [GitHub Issues](https://github.com/tu_usuario/tu_repositorio/issues).
+- **Reportar Problemas**: Usa [GitHub Issues](https://github.com/Hector-hub/Proyecto-PDF/issues).
 - **Contribuir**:
   1. Haz un fork del repositorio.
   2. Crea una rama para tu cambio: `git checkout -b mi-cambio`.
