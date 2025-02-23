@@ -1,0 +1,13 @@
+fitz  
+pymupdf
+pytest
+pytesseract  
+torch  
+Pillow  
+transformers  
+sentence-transformers  
+ultralytics  
+torchvision  
+openai  
+tiktoken  
+git+https://github.com/openai/CLIP.git
